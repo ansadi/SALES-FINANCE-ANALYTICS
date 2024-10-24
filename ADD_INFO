@@ -1,0 +1,13 @@
+
+1. Customer Net Sales Performance Report:
+
+I have shown NS2021 is what % of NS2020 using DAX, DIVIDE([NS2021],[NS2020],0)
+But We can show % Increase in Net Sales form FY2020 to FY2021 Using DAX, DIVIDE([NS2021]-[NS2020],[NS2020],0)
+
+2. COGS: Cost Of Goods Sold
+
+3. GM = (Net Sales - COGS)
+
+4. DAX for GM% = DIVIDE([GM],[Net Sales],0)
+
+

@@ -44,7 +44,7 @@ FINANCE REPORTS:
 FINANCE INSIGHTS:
 1. FY2021 Revenue is 204.48% more than that of FY2020 Revenue considering all the Customers.
 2. Although Net Sales were really good in most of the markets, none of the 23 Markets achieved FY2021 Sales Target.
-3. Both Net Sales & COGS(Cost Of Goods Sold) increased with year making very little change in Gross Margin(GM%).
+3. Both Net Sales & COGS(Cost Of Goods Sold) increased with year, making very little change in Gross Margin(GM%).
 4. In Q3 Month of March Net Sales in FY2021 is $44.0M from $2.1M in FY2020. This determines how much Indian Fiscal Year controls Sales of Atliq Hardware Products.
 5. SINCE India have high COGS its GM% is low, which is a concern. UK,JAPAN, NewZeland all have very impressive GM%. Germany is at bottom considering GM%.
 6. There is very little change in Quarter level GM% throughout Fiscal Year. Subzone ANZ does realy well in each Fiscal Year considering GM%
